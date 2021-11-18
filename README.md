@@ -24,4 +24,4 @@ Total number of dependencies:
 This project does not have a vulnerable call chain. If you would like to test this feature, feel free to create a vulnerable call chain by modifying index.js (and adding the necessary dependencies in `package.json`) and send us a PR.
 
 #### What's next?
-By running the security scanner of your choice against `npm-demo` project, you should get results that are coherent with the details above if the tool supports using package.json to manage JavaScript dependencies.
+By running the security scanner of your choice against `example-javascript-npm` project, you should get results that are coherent with the details above if the tool supports using package.json to manage JavaScript dependencies.
